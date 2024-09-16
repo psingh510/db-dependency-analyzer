@@ -1,4 +1,4 @@
-#Title: Dependency Tracker: SQL Component Dependency and Hierarchy Analysis
+Title: Dependency Tracker: SQL Component Dependency and Hierarchy Analysis
 
 Project Overview
 
